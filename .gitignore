@@ -1,7 +1,17 @@
+#mac artifacts
 .DS_Store
+
+#processing artifacts
 applet
 application.linux32
 application.linux64
 application.windows32
 application.windows64
 application.macosx
+
+# idea files
+/.idea/*
+!/.idea/copyright/
+!/.idea/dictionaries/
+!/.idea/codeStyles/
+/*.iml
